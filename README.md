@@ -1,9 +1,6 @@
 ```diff
 - text in blue
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
+
 ```
 # HCI166-fall2021
 FALL 2021 Human Computer Interaction / 108166 / Dua Javeria 63650 / Sidra Usman 63986
