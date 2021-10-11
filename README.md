@@ -27,7 +27,7 @@ FALL 2021 Human Computer Interaction / 108166 / Dua Javeria 63650 / Sidra Usman 
           <h4> Sidra Usman </h4>
           <p> It's my pleasure to indtroduce myself. Currently, I am in 7th Semester from PAF-KIET University with an aggregate of 3.6 CGPA. Now I am studying <b>Human comput Interaction</b> Course from the greate teacher <b>Sir Farooq Zaidi</b> </p>
           <br>
-          <h6> Duaa Javeria</h6>
+          <h4> Duaa Javeria</h4>
 <p>I am here to introduce myself . I am a student at paf kiet university. I am currently start a 7 semester. My current CGPA is 3.22 and I am now studying in human computer interaction course from its a good teacher Sir Farooq Zaidi. </p>
 
 </div>
