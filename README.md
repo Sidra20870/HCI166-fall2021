@@ -6,7 +6,7 @@ FALL 2021 Human Computer Interaction / 108166 / Dua Javeria 63650 / Sidra Usman 
 </head>
 <body>
      <div style="background-color:black;color:white;padding:20px;">
-          <h1> hello</h1>
+          <h1><b>An Hci Course Project</b></h1>
      <h3> Group Members </h3>
           <table style="width:100%">
   <tr>
