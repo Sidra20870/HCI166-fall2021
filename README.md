@@ -25,7 +25,7 @@ FALL 2021 Human Computer Interaction / 108166 / Dua Javeria 63650 / Sidra Usman 
   </tr>
             
 </table>
-          <mark><h2> Introduction </h2></mark>
+          <pre><h2> Introduction </h2></pre>
         
           <h3 style="color:Navy;"> Sidra Usman </h3>
           <div class="sidra">
