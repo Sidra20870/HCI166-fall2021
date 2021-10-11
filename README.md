@@ -10,7 +10,9 @@ FALL 2021 Human Computer Interaction / 108166 / Dua Javeria 63650 / Sidra Usman 
 </head>
 <body>
      <div style="background-color:black;color:white;padding:20px;">
-          <h1> ```diff + Assignment & Project Working ```</h1>
+          ```diff
+          - t<h1>Assignment & Project Working </h1>
+          ```
      <h2> Group Members </h2>
           <table style="width:100%">
   <tr>
