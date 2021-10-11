@@ -1,7 +1,3 @@
-```diff
-- <h1> text in blue </h1>
-
-```
 # HCI166-fall2021
 FALL 2021 Human Computer Interaction / 108166 / Dua Javeria 63650 / Sidra Usman 63986
 <!DOCTYPE html>
@@ -10,9 +6,9 @@ FALL 2021 Human Computer Interaction / 108166 / Dua Javeria 63650 / Sidra Usman 
 </head>
 <body>
      <div style="background-color:black;color:white;padding:20px;">
-          ```diff
-          - t<h1>Assignment & Project Working </h1>
-          ```
+         
+          <h1>Assignment & Project Working </h1>
+          
      <h2> Group Members </h2>
           <table style="width:100%">
   <tr>
@@ -29,8 +25,8 @@ FALL 2021 Human Computer Interaction / 108166 / Dua Javeria 63650 / Sidra Usman 
   </tr>
             
 </table>
-          <h2> Introduction </h2>
-          - text in red
+          <code><h2> Introduction </h2></code>
+        
           <h3 style="color:Navy;"> Sidra Usman </h3>
           <div class="sidra">
           <p> It's my pleasure to indtroduce myself. Currently, I am in 7th Semester from PAF-KIET University with an aggregate of 3.6 CGPA. Now I am studying <b>Human Computer Interaction</b> Course from the greate teacher <b>Sir Farooq Zaidi</b>. My strengths are like to take challenges and I can do it.<br> <b> Short Term Goal: </b> I want a platform where I can grow my career <br> <b> Long Term Goal: </b> I want to make my own product and launch in market to set a benchmark for others. </p>
