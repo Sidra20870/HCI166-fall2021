@@ -94,11 +94,10 @@ At mid of 1960's world have to need HCI much because
 As it were people who connecting with computers but This changed problematically with the development of individual computing within the afterward 1970s. Individual computer perform our assignment in a incredible way  like word, spreadsheet etc but at fair the point when individual computing displayed the requirement of HCI, cognitive science displayed individuals, concepts, abilities, and a vision for tending to such needs of science. HCI was one of the best example of cognitive building.
 
 ## Future of HCI ##
-#### Gestures ####
+#### GESTURES ####
 In later a long time, HCI inquire about based on look motions has risen and is expanding rapidly. Technique For Hand Motion Acknowledgment For Human-Computer Interaction: In this strategy, when the client gives a signal to the system it right away captures the picture of the hand signal with the assistance of its camera module.
 #### UI/UX ####
-
-
+The career way for HCI UI/UX graduates can lead to any industry that employments innovation to put through with clients or clients, such as fabricating, data innovation, finance, or healthcare companies and/or government teach.
 
 ## Qoute About HCI ##
 
