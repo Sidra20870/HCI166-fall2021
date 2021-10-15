@@ -40,9 +40,6 @@ HCI has extended quickly for three decades, pulling in experts from numerous oth
 
 ```diff
 + BY INPUT AND OUTPUT DEVICES
-...
-
-
 
 
 Early Days | Today | Soon
