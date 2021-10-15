@@ -17,6 +17,8 @@ The HCI term declared or popular by both of him in 1983 book **The Psychology of
 **Ben Shneiderman**
  He is one of the father of this HCI feild.
  
+ ![picture alt](http://via.placeholder.com/200x150 "Title is optional")
+ 
  ## Roots Of HCI ##
 
  * Software Engineering
