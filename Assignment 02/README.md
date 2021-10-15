@@ -64,6 +64,20 @@ Teletype  | Character Terminal | Ubiqoutous Computing
 etc | Audo Bit | Multimedia 
 etc  | Mapped Screen etc | Autonomous Agent etc
 
+## Some History Of HCI ##
+
+
+* Batch Processing
+* Paradigm Shifter
+* Video Display Units
+* Video Display Units
+* Personal Computers
+* Xerox Star - ’81
+* Apple Lisa - ’82
+* Metaphor
+* Hypertext
+* The Interconnected Web
+
 ## Need Of HCI ##
 At mid of 1960's world have to need HCI much because
 
