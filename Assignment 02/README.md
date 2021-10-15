@@ -1,4 +1,8 @@
 # HCI166-fall2021 / Dua Javeria 63650 / Sidra Usman 63986
+
+
+<img align="right" width="100" height="100" src="https://user-images.githubusercontent.com/61619271/137503345-71aca742-6d23-45e8-807f-0fe2cdbbb561.png">
+
 History Of HCI
 ===================
 
