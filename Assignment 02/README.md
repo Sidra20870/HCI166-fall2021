@@ -24,8 +24,8 @@ He is one of the father of this HCI feild.
 
  
  ## Roots Of HCI ##
-<img src="https://user-images.githubusercontent.com/61619271/137502347-fe5ed199-ebb8-4079-a20b-a6f88e581dc9.jpeg" width="200" height="150" margin-right="20"> 
 
+<img align="left" width="100" height="100" src="https://user-images.githubusercontent.com/61619271/137502347-fe5ed199-ebb8-4079-a20b-a6f88e581dc9.jpeg">
  * Software Engineering
  * Software Human Factors
  * Computer Graphics
