@@ -13,7 +13,7 @@ History Of HCI
 **Stuart K. Card, Allen Newell, and Thomas P. Moran**
 The HCI term declared or popular by both of him in 1983 book **The Psychology of Human-Computer Interaction** and first use in 1980 but first known in 1975.
 
-![stuart-card-58860684-75ac-4086-9c0c-73176da901c-resize-750](https://user-images.githubusercontent.com/61619271/137499288-2db4c1f6-adb4-434a-9fe1-df1af4942fef.jpeg){:height="50%" width="50%"}
+<img src="https://user-images.githubusercontent.com/61619271/137499288-2db4c1f6-adb4-434a-9fe1-df1af4942fef.jpeg" width="100" height="200">
 
 ## Father Of HCI ##
 **Ben Shneiderman**
