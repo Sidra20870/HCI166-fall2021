@@ -80,7 +80,7 @@ etc  | Mapped Screen etc | Autonomous Agent etc
 * The Interconnected Web
 
 ## Need Of HCI ##
-<img align="right" width="300" height="300" src="https://user-images.githubusercontent.com/61626142/137531774-f9145f9c-9512-4fac-a042-68e27cb6310e.png">
+<img align="right" width="400" height="100" src="https://user-images.githubusercontent.com/61626142/137531774-f9145f9c-9512-4fac-a042-68e27cb6310e.png">
 
 
 At mid of 1960's world have to need HCI much because
