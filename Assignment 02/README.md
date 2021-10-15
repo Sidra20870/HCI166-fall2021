@@ -59,7 +59,7 @@ etc  | Mapped Screen etc | Autonomous Agent etc
 
 ## Links ##
 #### Where we can study about History of HCI ####
-1. [https://slideplayer.com/slide/4705728/]
-2. [https://www.booksfree.org/pages/book-downloading-page/?dlm-dp-dl=22705]
-3. [file:///C:/Users/Sidra%20Usman/Desktop/_Human_computer_interaction.pdf]
-4. [https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/human-computer-interaction-brief-intro]
+1. https://slideplayer.com/slide/4705728/
+2. https://www.booksfree.org/pages/book-downloading-page/?dlm-dp-dl=22705
+3. https://www.booksfree.org/human-computer-interaction-third-edition-pdf-free-download/
+4. https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/human-computer-interaction-brief-intro
