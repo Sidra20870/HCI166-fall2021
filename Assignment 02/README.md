@@ -17,8 +17,8 @@ The HCI term declared or popular by both of him in 1983 book **The Psychology of
 
 
 ## Father Of HCI ##
-**Ben Shneiderman**
- He is one of the father of this HCI feild.
+<img src="https://user-images.githubusercontent.com/61619271/137501659-42697c55-eafb-4284-a645-5d9354002a5d.jpg" width="200" height="100">  **Ben Shneiderman**
+He is one of the father of this HCI feild.
  
 
 
