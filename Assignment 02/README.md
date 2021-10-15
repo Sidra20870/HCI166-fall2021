@@ -73,6 +73,7 @@ At mid of 1960's world have to need HCI much because
 * Memory Cheaper wanted
 
 ## Later 1970's ##
+As it were people who connecting with computers but This changed problematically with the development of individual computing within the afterward 1970s. Individual computer perform our assignment in a incredible way  like word, spreadsheet etc but at fair the point when individual computing displayed the requirement of HCI, cognitive science displayed individuals, concepts, abilities, and a vision for tending to such needs of science. HCI was one of the best example of cognitive building.
 
 
 
