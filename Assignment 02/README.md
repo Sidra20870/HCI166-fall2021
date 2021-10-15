@@ -57,3 +57,9 @@ etc  | Mapped Screen etc | Autonomous Agent etc
 > We must design for the way people behave, not for how we would wish them to behave.
 > **Donald A. Norman**
 
+## Links ##
+#### Where we can study about History of HCI ####
+1. [https://slideplayer.com/slide/4705728/]
+2. [https://www.booksfree.org/pages/book-downloading-page/?dlm-dp-dl=22705]
+3. [file:///C:/Users/Sidra%20Usman/Desktop/_Human_computer_interaction.pdf]
+4. [https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/human-computer-interaction-brief-intro]
