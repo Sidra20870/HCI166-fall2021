@@ -66,7 +66,7 @@ etc  | Mapped Screen etc | Autonomous Agent etc
 
 ## Some History Of HCI ##
 
-<img align="right" width="700" height="500" src="https://user-images.githubusercontent.com/61626142/137530553-8a608566-e8f2-44b8-bdb9-f0b42d3d093f.png">
+<img align="right" width="500" height="500" src="https://user-images.githubusercontent.com/61626142/137530553-8a608566-e8f2-44b8-bdb9-f0b42d3d093f.png">
 
 * Batch Processing
 * Paradigm Shifter
