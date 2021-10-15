@@ -38,8 +38,7 @@ HCI has extended quickly for three decades, pulling in experts from numerous oth
 
 ## Era's Of HCI ##
 
-```diff
-+ BY INPUT AND OUTPUT DEVICES
++ BY INPUT AND OUTPUT DEVICES +
 
 
 Early Days | Today | Soon
