@@ -1,5 +1,3 @@
-![Red text](http://placehold.it/size/background-hex/foreground-hex?text=a123)
-
 # HCI166-fall2021 / Dua Javeria 63650 / Sidra Usman 63986
 History Of HCI
 ===================
@@ -39,10 +37,7 @@ mechanism is
 HCI has extended quickly for three decades, pulling in experts from numerous other disciplines and joining different concepts and approaches. To a significant degree, HCI presently totals a collection of semi-autonomous areas and human-centered informatics in the feild of reasearch and practise.
 
 ## Era's Of HCI ##
-
-+ BY INPUT AND OUTPUT DEVICES +
-
-
+#### BY INPUT AND OUTPUT DEVICES ####
 Early Days | Today | Soon
 | :--- | ---: | :---:
 **Input** | **Input** | **Input**
