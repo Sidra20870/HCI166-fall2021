@@ -36,3 +36,20 @@ mechanism is
 
 HCI has extended quickly for three decades, pulling in experts from numerous other disciplines and joining different concepts and approaches. To a significant degree, HCI presently totals a collection of semi-autonomous areas and human-centered informatics in the feild of reasearch and practise.
 
+## Era's Of HCI ##
+#### By Input and Output Devices ####
+
+Early Days | Today | Soon
+| :--- | ---: | :---:
+**Input** | **Input** | **Input**
+Wires | Keyboard | Data Gloves
+Paper Tape | Cursor Keys | Data Suits
+Punch Cards | Mouse | Computer Jewelry 
+Keyboard etc | Microphone etc | Natural Language Cameras etc
+**Output**| **Output** | **Output**
+Lights on display paper| Scrolling Glass Teletype |Head Mounted Displays
+Teletype  | Character Terminal | Ubiqoutous Computing
+etc | Audo Bit | Multimedia 
+etc  | Mapped Screen etc | Autonomous Agent etc
+
+
