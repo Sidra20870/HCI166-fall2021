@@ -64,6 +64,17 @@ Teletype  | Character Terminal | Ubiqoutous Computing
 etc | Audo Bit | Multimedia 
 etc  | Mapped Screen etc | Autonomous Agent etc
 
+## Need Of HCI ##
+At mid of 1960's world have to need HCI much because
+
+* Interactive systems , not jobs
+* Computer too expensive
+* Time Sharing
+* Memory Cheaper wanted
+
+## Later 1970's ##
+
+
 
 ## Qoute About HCI ##
 
