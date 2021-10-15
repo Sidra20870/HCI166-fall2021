@@ -37,7 +37,10 @@ mechanism is
 HCI has extended quickly for three decades, pulling in experts from numerous other disciplines and joining different concepts and approaches. To a significant degree, HCI presently totals a collection of semi-autonomous areas and human-centered informatics in the feild of reasearch and practise.
 
 ## Era's Of HCI ##
-#### By Input and Output Devices ####
+
+```diff
++ BY INPUT AND OUTPUT DEVICES
+...
 
 Early Days | Today | Soon
 | :--- | ---: | :---:
