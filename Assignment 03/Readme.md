@@ -1,13 +1,13 @@
 
-#Idea Generation: Hybrid Classroom System in Underprivileged Schools
+# Idea Generation: Hybrid Classroom System in Underprivileged Schools
 
 |Std ID|Student Name|
 |:-----:|---------------------|
-|**12345**|**Group Leader**|
-|54321|Member 2|
-|12543|Member 3|
+|**63650**|**Dua Javeria**|
+|63986|Sidra Usman|
 
-##Core Problem: Double Daimon Framework
+
+## Core Problem: Double Daimon Framework
 \\Remove this text\\ In this section mention what the underlying core problem is. What are the limitations and challenges. What are the actual task that are performed in regular classrooms. What tasks will be performed in an hybrid classrooms. How will these tasks changes. How can HCI help. etc. etc.
 
 ##Final 10 Ideas Selected
