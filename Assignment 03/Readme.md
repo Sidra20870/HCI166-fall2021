@@ -7,7 +7,7 @@
 |63986|Sidra Usman|
 
 
-## Core Problem: Double Daimon Framework
+## Core Problem: Double Daimond Framework
 \\Remove this text\\ In this section mention what the underlying core problem is. What are the limitations and challenges. What are the actual task that are performed in regular classrooms. What tasks will be performed in an hybrid classrooms. How will these tasks changes. How can HCI help. etc. etc.
 
 ##Final 10 Ideas Selected
