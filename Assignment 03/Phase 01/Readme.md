@@ -15,7 +15,15 @@
 In this idea the core word is **Underprivileged School** . According to this some of students have not resources to take online class as well schools also have not resources to manage hybrid classroom. They do not have enough ideas to manage the class by digital system.
 
 ### Focus on Scope 
+Due to pandemic everyone is shifting towards online class
+but nowadays underpreviliged schools facing the problems
+as hybrid studies. So with various technologies and innovations
+we can create our education system to modern ecosystem.
+Our main focus is that how can we provide the digital system
+in this type of schools and if we can provide all the necessities
+to schools but how can we shift our students in digital area.
 
+-----------------------
 In this section mention what the underlying core problem is. What are the limitations and challenges. What are the actual task that are performed in regular classrooms. What tasks will be performed in an hybrid classrooms. How will these tasks changes. How can HCI help. etc. etc.
 
 ## Final 10 Ideas Selected
