@@ -97,7 +97,8 @@ Add some description of the idea here.
 |blah blahblah blah blah blah blah blah blah blah ...|blah blah blah blah blah blah blah blah blah blah...|
 
 ### IDEA 9: Become a Mentor (original by [Dua Javeria] and [sidra usman])
-Add some description of the idea here. 
+You have to remember what's the main problem.  Hybrid learning isn't the problem for Underprivileged kids but access to education is. Having someone to teach them when classes end and they need help that's the problem. Finding a way to provide extra class resources and coaches would be important so rather than using technology, finding volunteers who could teach after classes end, in the afternoon and evening would be important.
+
 |PROS|CONS|
 |-|-|
 |blah blah blah blahblah blah...|blah blah blah blah blah blah blah blah...|
