@@ -57,7 +57,8 @@ Add some description of the idea here.
 
 ---
 ### IDEA 4: Sponsorship (original by [Sidra Usman])
-Add some description of the idea here. 
+You need to make school management somehow to get this facility and for this a number of sponsors can be searched and contacted. Mobile companies or internet service providers may be the sponsors for providing this facility for schools or you may search over the internet for the potential sponsors like u can check for HEC funding for such projects
+
 |PROS|CONS|
 |-|-|
 |blah blah blah blahblah blah...|blah blah blah blah blah blah blah blah...|
