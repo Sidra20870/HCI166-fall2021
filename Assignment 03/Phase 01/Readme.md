@@ -104,12 +104,9 @@ Add some description of the idea here.
 |blah blahblah blah blah blah blah blah blah blah ...|blah blah blah blah blah blah blah blah blah blah...|
 
 
-## Ideas by Group Leader
-
+##Ideas by Group Leader
 
 <img align="center"  src="https://user-images.githubusercontent.com/61626142/146421079-bf0b7538-558f-49bd-a844-43db46e98960.jpg">
-
-
 ## Ideas by Member 2
 
 <img align="center"  src="https://user-images.githubusercontent.com/61619271/146419644-e411d9d0-ab34-4072-8793-b618a1209bbd.jpg">
@@ -117,6 +114,8 @@ Add some description of the idea here.
 
 
 ##Group Brainstorm Session 
-![Add the image to of group brainstorming session to gitHub and then put its link here](Image link "Hover Text")
+
+<img align="center"  src="https://user-images.githubusercontent.com/61626142/146425397-54a040eb-b8ae-4297-bc8b-283260451b19.png">
+
 
 //In the group brain storming session shortlist the 60 ideas to 10. Discuss and keep noting why some ideas were scrapped, while some retained. Use a full sheet papers or chartpaper, printing paper etc. , you may use markers, pointers etc. If you can find a free classroom on campus use the whiteboard and take picture of that. use sticky notes etc.    
