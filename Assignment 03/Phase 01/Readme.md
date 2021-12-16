@@ -63,7 +63,7 @@ Add some description of the idea here.
 |blah blah blah blah blah blah ...|blah blah blah blah blah blah blah blah blah blah blah blah...|
 |blah blahblah blah blah blah blah blah blah blah ...|blah blah blah blah blah blah blah blah blah blah...|
 
-### IDEA 6: Sponsorship (original by [Sidra Usman])
+### IDEA 6: Make Local Videos (original by [Sidra Usman])
 Add some description of the idea here. 
 |PROS|CONS|
 |-|-|
