@@ -39,7 +39,7 @@ If we create an app or a website, they may not have the access to a device for i
 
 ---
 ### IDEA 2: Share one device with lot of people (original by [Dua Javeria])
-Add some description of the idea here. 
+Although much attention has been paid to projects that promise things like 'an educational tablet for every student', it is not just about sectarian technologies like radio and television where the use of a device The benefits can reach many learners at once. As part of some projects, classrooms of up to 50 students can each 'operate' a computer independently, as long as each has its own mouse. Such efforts are enabled where technologies are available to help convert simple projectors into low-cost versions of digital whiteboards. 
 |PROS|CONS|
 |-|-|
 |blah blah blah blahblah blah...|blah blah blah blah blah blah blah blah...|
