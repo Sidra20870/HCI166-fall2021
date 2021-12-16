@@ -105,6 +105,7 @@ Add some description of the idea here.
 
 
 ##Ideas by Group Leader
+
 <img align="center"  src="https://user-images.githubusercontent.com/61626142/146421079-bf0b7538-558f-49bd-a844-43db46e98960.jpg">
 ## Ideas by Member 2
 
