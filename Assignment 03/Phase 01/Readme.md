@@ -90,7 +90,8 @@ Add some description of the idea here.
 |blah blahblah blah blah blah blah blah blah blah ...|blah blah blah blah blah blah blah blah blah blah...|
 
 ### IDEA 8: Peer to Peer Learning (original by [Dua Javeria])
-Add some description of the idea here. 
+The increasing availability of low-cost video cameras (including in mobile phones) may provide opportunities for reflection and peer support for teachers who have little (if any) access to their curriculum delivery methods. for example, teachers take short videos of their peers and then jointly review and discuss teaching methods and particularly difficult topics as part of their professional development. Can be taught in informal, low-stack ways.
+
 |PROS|CONS|
 |-|-|
 |blah blah blah blahblah blah...|blah blah blah blah blah blah blah blah...|
