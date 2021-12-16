@@ -107,11 +107,11 @@ Add some description of the idea here.
 ##Ideas by Group Leader
 ![Add the image of individual brainstorming session to gitHub and then put its link here](Image link "Hover Text")
 
-##Ideas by Member 2
-![Add the image of individual brainstorming session to gitHub and then put its link here](Image link "Hover Text")
+## Ideas by Member 2
 
-##Ideas by Member 3
-![Add the image of individual brainstorming session to gitHub and then put its link here](Image link "Hover Text")
+<img align="center" width="500" height="300" src="https://user-images.githubusercontent.com/61619271/146419644-e411d9d0-ab34-4072-8793-b618a1209bbd.jpg">
+<img align="center" width="500" height="300" src="https://user-images.githubusercontent.com/61619271/146419777-6c6d56c1-e2e1-40db-887f-59cd0b2fc9bc.jpg">
+
 
 ##Group Brainstorm Session 
 ![Add the image to of group brainstorming session to gitHub and then put its link here](Image link "Hover Text")
