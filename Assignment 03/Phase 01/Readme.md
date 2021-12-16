@@ -29,7 +29,7 @@ Add some description of the idea here.
 |blah blahblah blah blah blah blah blah blah blah ...|blah blah blah blah blah blah blah blah blah blah...|
 
 ---
-### IDEA 2: Become a Mentor (original by [Dua Javeria])
+### IDEA 2: Share one device with lot of people (original by [Dua Javeria])
 Add some description of the idea here. 
 |PROS|CONS|
 |-|-|
@@ -87,7 +87,7 @@ Add some description of the idea here.
 |blah blah blah blah blah blah ...|blah blah blah blah blah blah blah blah blah blah blah blah...|
 |blah blahblah blah blah blah blah blah blah blah ...|blah blah blah blah blah blah blah blah blah blah...|
 
-### IDEA 9: Share one device with lot of people (original by [Dua Javeria])
+### IDEA 9: Become a Mentor (original by [Dua Javeria] and [sidra usman])
 Add some description of the idea here. 
 |PROS|CONS|
 |-|-|
