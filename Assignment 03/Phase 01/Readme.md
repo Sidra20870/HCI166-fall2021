@@ -131,7 +131,7 @@ Add some description of the idea here.
 
 ## Group Brainstorm Session 
 
-<img align="center" width="1000"   src="https://user-images.githubusercontent.com/61626142/146428775-5a8aab3f-6a4a-4a56-839a-b784ec811a77.png">
+<img align="center" width="1000"   src="https://user-images.githubusercontent.com/61619271/146435306-08e211e9-7eb9-41f8-9c5b-4cbc190eaafb.png">
 
 ---
 
