@@ -105,8 +105,7 @@ Add some description of the idea here.
 
 
 ##Ideas by Group Leader
-![Add the image of individual brainstorming session to gitHub and then put its link here](Image link "Hover Text")
-
+<img align="center"  src="https://user-images.githubusercontent.com/61626142/146421079-bf0b7538-558f-49bd-a844-43db46e98960.jpg">
 ## Ideas by Member 2
 
 <img align="center"  src="https://user-images.githubusercontent.com/61619271/146419644-e411d9d0-ab34-4072-8793-b618a1209bbd.jpg">
