@@ -11,13 +11,16 @@
 ## Core Problem: Double Daimond Framework
 <img align="right" width="500" height="300" src="https://user-images.githubusercontent.com/61619271/146389887-f0a011af-0960-4efa-90af-1f6228a52384.png">
 
+### Discover the Problem ###
 In this idea the core word is **Underprivileged School** . According to this some of students have not resources to take online class as well schools also have not resources to manage hybrid classroom. They do not have enough ideas to manage the class by digital system.
+
+### Focus on Scope ###
 
 In this section mention what the underlying core problem is. What are the limitations and challenges. What are the actual task that are performed in regular classrooms. What tasks will be performed in an hybrid classrooms. How will these tasks changes. How can HCI help. etc. etc.
 
 ## Final 10 Ideas Selected
 
-###IDEA 1: Blah blah (original by [mention the member's name])
+### IDEA 1: Old Technology (original by [Dua Javeria])
 Add some description of the idea here. 
 |PROS|CONS|
 |-|-|
@@ -26,7 +29,7 @@ Add some description of the idea here.
 |blah blahblah blah blah blah blah blah blah blah ...|blah blah blah blah blah blah blah blah blah blah...|
 
 ---
-###IDEA 2: Blah blah (original by [mention the member's name])
+### IDEA 2: Become a Mentor (original by [Dua Javeria])
 Add some description of the idea here. 
 |PROS|CONS|
 |-|-|
@@ -35,7 +38,7 @@ Add some description of the idea here.
 |blah blahblah blah blah blah blah blah blah blah ...|blah blah blah blah blah blah blah blah blah blah...|
 
 ---
-###IDEA 3: Blah blah (original by [mention the member's name])
+### IDEA 3: Education Canvas (original by [Dua Javeria])
 Add some description of the idea here. 
 |PROS|CONS|
 |-|-|
@@ -44,7 +47,7 @@ Add some description of the idea here.
 |blah blahblah blah blah blah blah blah blah blah ...|blah blah blah blah blah blah blah blah blah blah...|
 
 ---
-###IDEA 4: Blah blah (original by [mention the member's name])
+### IDEA 4: Sponsorship (original by [Sidra Usman])
 Add some description of the idea here. 
 |PROS|CONS|
 |-|-|
@@ -52,16 +55,47 @@ Add some description of the idea here.
 |blah blah blah blah blah blah ...|blah blah blah blah blah blah blah blah blah blah blah blah...|
 |blah blahblah blah blah blah blah blah blah blah ...|blah blah blah blah blah blah blah blah blah blah...|
 
----
-.
+### IDEA 5: Offline Website (original by [Sidra Usman])
+Add some description of the idea here. 
+|PROS|CONS|
+|-|-|
+|blah blah blah blahblah blah...|blah blah blah blah blah blah blah blah...|
+|blah blah blah blah blah blah ...|blah blah blah blah blah blah blah blah blah blah blah blah...|
+|blah blahblah blah blah blah blah blah blah blah ...|blah blah blah blah blah blah blah blah blah blah...|
 
-.
+### IDEA 6: Sponsorship (original by [Sidra Usman])
+Add some description of the idea here. 
+|PROS|CONS|
+|-|-|
+|blah blah blah blahblah blah...|blah blah blah blah blah blah blah blah...|
+|blah blah blah blah blah blah ...|blah blah blah blah blah blah blah blah blah blah blah blah...|
+|blah blahblah blah blah blah blah blah blah blah ...|blah blah blah blah blah blah blah blah blah blah...|
 
-.
+### IDEA 7: Asynchronous Learning (original by [Dua Javeria])
+Add some description of the idea here. 
+|PROS|CONS|
+|-|-|
+|blah blah blah blahblah blah...|blah blah blah blah blah blah blah blah...|
+|blah blah blah blah blah blah ...|blah blah blah blah blah blah blah blah blah blah blah blah...|
+|blah blahblah blah blah blah blah blah blah blah ...|blah blah blah blah blah blah blah blah blah blah...|
 
+### IDEA 8: Peer to Peer Learning (original by [Dua Javeria])
+Add some description of the idea here. 
+|PROS|CONS|
+|-|-|
+|blah blah blah blahblah blah...|blah blah blah blah blah blah blah blah...|
+|blah blah blah blah blah blah ...|blah blah blah blah blah blah blah blah blah blah blah blah...|
+|blah blahblah blah blah blah blah blah blah blah ...|blah blah blah blah blah blah blah blah blah blah...|
 
----
-###IDEA 10: Blah blah (original by [mention the member's name])
+### IDEA 9: Share one device with lot of people (original by [Dua Javeria])
+Add some description of the idea here. 
+|PROS|CONS|
+|-|-|
+|blah blah blah blahblah blah...|blah blah blah blah blah blah blah blah...|
+|blah blah blah blah blah blah ...|blah blah blah blah blah blah blah blah blah blah blah blah...|
+|blah blahblah blah blah blah blah blah blah blah ...|blah blah blah blah blah blah blah blah blah blah...|
+
+### IDEA 10: Publicize the cause of our product (original by [Sidra Usman])
 Add some description of the idea here. 
 |PROS|CONS|
 |-|-|
