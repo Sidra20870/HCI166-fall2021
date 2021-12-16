@@ -106,25 +106,25 @@ Add some description of the idea here.
 
 ## Ideas by Group Leader
 
-<img align="center" width="500" src="https://user-images.githubusercontent.com/61626142/146421079-bf0b7538-558f-49bd-a844-43db46e98960.jpg">
+<img align="center" width="1000" src="https://user-images.githubusercontent.com/61626142/146421079-bf0b7538-558f-49bd-a844-43db46e98960.jpg">
 
 
 ## Ideas by Member 2
 
-<img align="center" width="500"   src="https://user-images.githubusercontent.com/61619271/146419644-e411d9d0-ab34-4072-8793-b618a1209bbd.jpg">
+<img align="center" width="1000"   src="https://user-images.githubusercontent.com/61619271/146419644-e411d9d0-ab34-4072-8793-b618a1209bbd.jpg">
 
 ---
 
-<img align="center"width="500"   src="https://user-images.githubusercontent.com/61619271/146419777-6c6d56c1-e2e1-40db-887f-59cd0b2fc9bc.jpg">
+<img align="center" width="1000"   src="https://user-images.githubusercontent.com/61619271/146419777-6c6d56c1-e2e1-40db-887f-59cd0b2fc9bc.jpg">
 
 
 ## Group Brainstorm Session 
 
-<img align="center" width="500"   src="https://user-images.githubusercontent.com/61626142/146428775-5a8aab3f-6a4a-4a56-839a-b784ec811a77.png">
+<img align="center" width="1000"   src="https://user-images.githubusercontent.com/61626142/146428775-5a8aab3f-6a4a-4a56-839a-b784ec811a77.png">
 
 ---
 
-<img align="center"  width="500" src="https://user-images.githubusercontent.com/61626142/146425397-54a040eb-b8ae-4297-bc8b-283260451b19.png">
+<img align="center"  width="1000" src="https://user-images.githubusercontent.com/61626142/146425397-54a040eb-b8ae-4297-bc8b-283260451b19.png">
 
 
 //In the group brain storming session shortlist the 60 ideas to 10. Discuss and keep noting why some ideas were scrapped, while some retained. Use a full sheet papers or chartpaper, printing paper etc. , you may use markers, pointers etc. If you can find a free classroom on campus use the whiteboard and take picture of that. use sticky notes etc.    
