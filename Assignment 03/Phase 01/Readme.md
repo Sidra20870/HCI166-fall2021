@@ -112,8 +112,7 @@ Add some description of the idea here.
 ## Ideas by Member 2
 
 <img align="center"  src="https://user-images.githubusercontent.com/61619271/146419644-e411d9d0-ab34-4072-8793-b618a1209bbd.jpg">
-_______________________________________________________________________________________________________________________________________________
-
+---
 <img align="center"  src="https://user-images.githubusercontent.com/61619271/146419777-6c6d56c1-e2e1-40db-887f-59cd0b2fc9bc.jpg">
 
 
@@ -121,7 +120,7 @@ ________________________________________________________________________________
 
 <img align="center"  src="https://user-images.githubusercontent.com/61626142/146428775-5a8aab3f-6a4a-4a56-839a-b784ec811a77.png">
 
-_______________________________________________________________________________________________________________________________________________
+---
 
 <img align="center"  src="https://user-images.githubusercontent.com/61626142/146425397-54a040eb-b8ae-4297-bc8b-283260451b19.png">
 
