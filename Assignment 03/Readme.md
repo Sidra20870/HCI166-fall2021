@@ -8,9 +8,10 @@
 
 
 ## Core Problem: Double Daimond Framework
-\\Remove this text\\ In this section mention what the underlying core problem is. What are the limitations and challenges. What are the actual task that are performed in regular classrooms. What tasks will be performed in an hybrid classrooms. How will these tasks changes. How can HCI help. etc. etc.
+In this idea the core word is **Underprivileged School** . According to this some of students have not resources to take online class as well schools also have not resources to manage hybrid classroom. They do not have enough ideas to manage the class by digital system.
+In this section mention what the underlying core problem is. What are the limitations and challenges. What are the actual task that are performed in regular classrooms. What tasks will be performed in an hybrid classrooms. How will these tasks changes. How can HCI help. etc. etc.
 
-##Final 10 Ideas Selected
+## Final 10 Ideas Selected
 
 ###IDEA 1: Blah blah (original by [mention the member's name])
 Add some description of the idea here. 
