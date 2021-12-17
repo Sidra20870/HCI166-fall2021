@@ -44,15 +44,12 @@ In this problem we make sure some challanges to solve that
 
 ### Regular Classroom VS Hybrid Classroom
 In regular classroom where student engage with teahchers directly and access all the resource via teachers. Student solve their problems at a time , their work have complete on time. While in hybrid classroom students participate in complete work of class work and virtual work as well. Hybrid classes meet less frequently, with only a handful of in-person sessions per term. Educator provide the lesson in class and remotely as cameras at a time or to make schedule for some online and on-school classes. Meanwhile students can connect with
-teachers and fellows as well. Video conferencing such as Zoom and Google Meeting and to check out of online students also like attendence, tests, exams etc. The Person which in class that engaged with teachers easily but often challenges with online students and there are lot of technology required like videos, images camera, website, schedule, resource, Artificial Intelligence , finger print etc. The main thing is that teacher can also see the students which can take classess by home.
+teachers and fellows as well. Video conferencing such as Zoom and Google Meeting and to check out of online students also like attendence, tests, exams etc. The Person which in class that engaged with teachers easily but often challenges with online students and there are lot of technology required like videos, images camera, website, schedule, resource, Artificial Intelligence , finger print etc. The main thing is that teacher can also see the students which can take classes by home.
 
 ---
 
 ### Solution by looking HCI
-
-
-
-\\Remove this text\\ In this section mention what the underlying core problem is. What are the limitations and challenges. What are the actual task that are performed in regular classrooms. What tasks will be performed in an hybrid classrooms. How will these tasks changes. How can HCI help. etc. etc.
+According to HCI, we can provide friendly environment in school , provide the best artifacts in school for better learning . To give automatic system and offer more flexible schedule to check out both offline and online students. We can interact with all the technologies and maintain a system a website or mobile app or to connect with all resource like computer, cameras, emails, Internert, automated gadgets etc wih easy and interactive user interface.
 
 ## Final 10 Ideas Selected
 
