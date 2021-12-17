@@ -53,7 +53,7 @@ According to HCI, we can provide friendly environment in school , provide the be
 
 ## Final 10 Ideas Selected
 
-### IDEA 1: IDEA 1: Old Technology (original by [Dua Javeria])
+### IDEA 1: Old Technology (original by [Dua Javeria])
 If we create an app or a website, they may not have the access to a device for it like a phone or tablet. If you give it to them someone might steal it or sell it in their homes. Instead, maybe going with some technology they have access to, like a radio or FM device would be an option that can actually be done but its not an attending the session and to conduct the queries.
 
 |PROS|CONS|
