@@ -140,7 +140,7 @@ You have to remember what's the main problem. Hybrid learning isn't the problem 
 |blah blahblah blah blah blah blah blah blah blah ...|blah blah blah blah blah blah blah blah blah blah...|
 
 ---
-### IDEA 10: Publicize the cause of our product (original by [Dua Javeria] and [Sidra Usman])
+### IDEA 10: Publicize the cause of our product (original by [Dua Javeria])
 Although you can donate out of your own pocket, you may want to encourage other people to donate as well. Advertise the charity of your choice to friends and family. Encourage others to make the most of your money. You might consider generalizing your goal: Social media like Facebook, Twitter, or Instagram Blogs Video appeals. Your personal website
 
 |PROS|CONS|
