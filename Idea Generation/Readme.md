@@ -12,7 +12,7 @@
 <img align="right" width="500" height="300" src="https://user-images.githubusercontent.com/61619271/146389887-f0a011af-0960-4efa-90af-1f6228a52384.png">
 
 ### Discover the Problem
-In this idea the core word is Underprivileged School . According to this some of students have not resources to take online class as well schools also have not resources to manage hybrid classroom. They do not have enough ideas to manage the class by digital system.
+In this idea the core word is **Underprivileged School** . According to this some of students have not resources to take online class as well schools also have not resources to manage hybrid classroom. They do not have enough ideas to manage the class by digital system.
 
 ---
 
