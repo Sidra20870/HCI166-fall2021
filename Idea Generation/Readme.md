@@ -14,8 +14,45 @@
 ### Discover the Problem
 In this idea the core word is Underprivileged School . According to this some of students have not resources to take online class as well schools also have not resources to manage hybrid classroom. They do not have enough ideas to manage the class by digital system.
 
+---
+
 ### Focus on Scope 
 Due to pandemic everyone is shifting towards online class but nowadays underpreviliged schools facing the problems as hybrid studies. So with various technologies and innovations we can create our education system to modern ecosystem. Our main focus is that how can we provide the digital system in this type of schools and if we can provide all the necessities to schools but how can we shift our students in digital area.
+
+---
+
+### Limitations
+In hybrid mode of studies there are lot of limitations like
+1. Sometimes students facing a problem to interact the teacher.
+2. Attendence issues.
+3. Virtual students facing learning over the computer especially te video and audio is not clear.
+4. Access to resource.
+5. Difficult to set up the complete classroom.
+
+---
+
+### Challenges
+In this problem we make sure some challanges to solve that
+1. Make sure educators need to deliver an excellent learning experience for students.
+2. It can be challenge to keep both of students with teachers who can learn physically and remotely as well.
+3. To teach that how to use this set up to students and teachers.
+4. To provide the best resources and gadgets.
+5. Handle technical issues like sounds, video, attention, wifi etc.
+6. Collaboration is more difficult to facilitate.
+
+---
+
+### Regular Classroom
+
+---
+
+### Hybrid Classroom
+
+---
+
+### Solution by looking HCI
+
+
 
 \\Remove this text\\ In this section mention what the underlying core problem is. What are the limitations and challenges. What are the actual task that are performed in regular classrooms. What tasks will be performed in an hybrid classrooms. How will these tasks changes. How can HCI help. etc. etc.
 
