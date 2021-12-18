@@ -93,7 +93,7 @@ You need to make school management somehow to get this facility and for this a n
 
 ---
 ### IDEA 5:  Offline Website (original by [Sidra Usman])
-Add some description of the idea here. 
+Some of the places have not current internet connectivity that we have innovative approach to catch online content due to distributive computation to offline resources but for this we have a cloud computing or once a time must have connectivity.
 |PROS|CONS|
 |-|-|
 |blah blah blah blahblah blah...|blah blah blah blah blah blah blah blah...|
