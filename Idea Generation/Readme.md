@@ -166,7 +166,7 @@ Although you can donate out of your own pocket, you may want to encourage other 
 
 ## Group Brainstorm Session 
 
-<img align="center"  src="https://user-images.githubusercontent.com/61619271/146617656-aec7a352-3523-48c2-b228-829bdb499901.png">
+<img align="right"  src="https://user-images.githubusercontent.com/61619271/146617656-aec7a352-3523-48c2-b228-829bdb499901.png">
 
 ---
 
