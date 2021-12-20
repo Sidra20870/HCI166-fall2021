@@ -58,7 +58,7 @@ If we create an app or a website, they may not have the access to a device for i
 
 |PROS|CONS|
 |-|-|
-|blah blah blah blahblah blah...|blah blah blah blah blah blah blah blah...|
+|By Radio and TV broadcasting poor students can easily take the lectures.|But there is no interaction between teacher and students.|
 |blah blah blah blah blah blah ...|blah blah blah blah blah blah blah blah blah blah blah blah...|
 |blah blahblah blah blah blah blah blah blah blah ...|blah blah blah blah blah blah blah blah blah blah...|
 
