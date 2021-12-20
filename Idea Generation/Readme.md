@@ -173,4 +173,3 @@ Although you can donate out of your own pocket, you may want to encourage other 
 <img align="center"  src="https://user-images.githubusercontent.com/61626142/146425397-54a040eb-b8ae-4297-bc8b-283260451b19.png">
 
 
-//In the group brain storming session shortlist the 60 ideas to 10. Discuss and keep noting why some ideas were scrapped, while some retained. Use a full sheet papers or chartpaper, printing paper etc. , you may use markers, pointers etc. If you can find a free classroom on campus use the whiteboard and take picture of that. use sticky notes etc.    
