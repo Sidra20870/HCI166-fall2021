@@ -111,7 +111,7 @@ Add some description of the idea here.
 
 ---
 ### IDEA 7:  Asynchronous Learning (original by [Dua Javeria])
-Add some description of the idea here. 
+It allows to learn with your own schedule within the suitable time , you can access lectures, material, resources, work, at any time or after a weeks and months also. It mean two or kore people connect each other without present at a time like zoom and google meeting or virtual classroom.
 |PROS|CONS|
 |-|-|
 |blah blah blah blahblah blah...|blah blah blah blah blah blah blah blah...|
