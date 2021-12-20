@@ -102,7 +102,8 @@ Some of the places have not current internet connectivity that we have innovativ
 
 ---
 ### IDEA 6: Make Local Videos (original by [Duaa javeria])
-Add some description of the idea here. 
+After facing alot of problems we can make a local videos like record the lectures or teacher can make videos by own and share with students via mobile, TV, or applications.
+and In this may teacher not conduct the class so students come in classroom and attend the lectures via these videos.
 |PROS|CONS|
 |-|-|
 |blah blah blah blahblah blah...|blah blah blah blah blah blah blah blah...|
