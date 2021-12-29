@@ -125,9 +125,9 @@ The increasing availability of low-cost video cameras (including in mobile phone
 
 |PROS|CONS|
 |-|-|
-|blah blah blah blahblah blah...|blah blah blah blah blah blah blah blah...|
-|blah blah blah blah blah blah ...|blah blah blah blah blah blah blah blah blah blah blah blah...|
-|blah blahblah blah blah blah blah blah blah blah ...|blah blah blah blah blah blah blah blah blah blah...|
+|It involves participant of the same level engaging and collaborating.|It wants cost and energy to launch and maintain the system.|
+|Teacher change the hosting of class and sharp minded student can teach the weaker student easily.|It is difficult to access the quality of peer to peer exercise and require extra resources to allocate the students and teachers both.|
+|It can help to boost the students confidence and morale.|Individuals may not learn easily because they have no idea about experienced instructor.|
 
 ---
 ### IDEA 9:  Become a Mentor (original by [Dua Javeria] and [Sidra Usman])
@@ -136,9 +136,9 @@ You have to remember what's the main problem. Hybrid learning isn't the problem 
 
 |PROS|CONS|
 |-|-|
-|blah blah blah blahblah blah...|blah blah blah blah blah blah blah blah...|
-|blah blah blah blah blah blah ...|blah blah blah blah blah blah blah blah blah blah blah blah...|
-|blah blahblah blah blah blah blah blah blah blah ...|blah blah blah blah blah blah blah blah blah blah...|
+|Students can collaborate the teachers directly, if they not attend the class.|Instructor have not much time to attend the class and go to the students house for teaching.|
+|The sense of achievement way better and take the assessment with good feedback.|It can depends on mentor menatality and tired level.|
+|Self development of problem solving skill and enhance the confidence level.|If the person is being sick then the mentor may not go for teaching.|
 
 ---
 ### IDEA 10: Publicize the cause of our product (original by [Dua Javeria])
@@ -146,9 +146,9 @@ Although you can donate out of your own pocket, you may want to encourage other 
 
 |PROS|CONS|
 |-|-|
-|blah blah blah blahblah blah...|blah blah blah blah blah blah blah blah...|
-|blah blah blah blah blah blah ...|blah blah blah blah blah blah blah blah blah blah blah blah...|
-|blah blahblah blah blah blah blah blah blah blah ...|blah blah blah blah blah blah blah blah blah blah...|
+|It keeps the schools in the buisness of educating for money & devices.|Risk to get negative feedback and it will have a bad effect on the students. |
+|It can enhance the device esposure through free press coverage.|Our AD compaign may costly in the case of mistake.|
+|Improved conversion costs to maintain the value of users.|Our competitors can easily copy our strategy and we will be left empty handed|
 
 
 ## Ideas by Group Leader
