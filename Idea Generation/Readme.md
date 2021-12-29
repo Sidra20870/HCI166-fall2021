@@ -87,9 +87,9 @@ You need to make school management somehow to get this facility and for this a n
 
 |PROS|CONS|
 |-|-|
-|blah blah blah blahblah blah...|blah blah blah blah blah blah blah blah...|
-|blah blah blah blah blah blah ...|blah blah blah blah blah blah blah blah blah blah blah blah...|
-|blah blahblah blah blah blah blah blah blah blah ...|blah blah blah blah blah blah blah blah blah blah...|
+|It allows a school a school to buy and upgrade the equipment.|Misuse of data to create specific advertising the schools and may take direct amount on thier accounts.|
+|It lowers the burden on parents and school staff.|Media & teams come and take more of time of students to gather the attention without permission.|
+|It provides the students with the right education they need.|It may not have warranty after broken or snatching the devices.|
 
 ---
 ### IDEA 5:  Offline Website (original by [Sidra Usman])
