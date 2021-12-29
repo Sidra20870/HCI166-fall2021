@@ -68,9 +68,9 @@ Although much attention has been paid to projects that promise things like 'an e
 
 |PROS|CONS|
 |-|-|
-|blah blah blah blahblah blah...|blah blah blah blah blah blah blah blah...|
-|blah blah blah blah blah blah ...|blah blah blah blah blah blah blah blah blah blah blah blah...|
-|blah blahblah blah blah blah blah blah blah blah ...|blah blah blah blah blah blah blah blah blah blah...|
+|Consistency occur, immediate access of all devices throughout the one of cable.|High dependency on school and centers.|
+|Students can work simultaneously and collaborate each other easily.|If staff are not trained then they might be disable to handle the setup.|
+|It can actually cheaper rather to donate separate devices.|Teachers may need to spend more time with the ame place or other place to teach the students as well.|
 
 ---
 ### IDEA 3:  Education Canvas (original by [Dua Javeria])
