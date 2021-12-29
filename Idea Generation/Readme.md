@@ -59,8 +59,8 @@ If we create an app or a website, they may not have the access to a device for i
 |PROS|CONS|
 |-|-|
 |By Radio and TV broadcasting poor students can easily take the lectures.|But there is no interaction between teacher and students.|
-|blah blah blah blah blah blah ...|blah blah blah blah blah blah blah blah blah blah blah blah...|
-|blah blahblah blah blah blah blah blah blah blah ...|blah blah blah blah blah blah blah blah blah blah...|
+|Broader student easily access to all opportunities.|No opportunity for question and feedback.|
+|Copies of taped material (radio) can be made available to students for review.|Some courses technically hard but lack in the substance of teaching and learning.|
 
 ---
 ### IDEA 2: Share one device with lot of people (original by [Dua Javeria])
