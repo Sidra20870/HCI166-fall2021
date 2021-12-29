@@ -96,9 +96,9 @@ You need to make school management somehow to get this facility and for this a n
 Some of the places have not current internet connectivity that we have innovative approach to catch online content due to distributive computation to offline resources but for this we have a cloud computing or once a time must have connectivity.
 |PROS|CONS|
 |-|-|
-|blah blah blah blahblah blah...|blah blah blah blah blah blah blah blah...|
-|blah blah blah blah blah blah ...|blah blah blah blah blah blah blah blah blah blah blah blah...|
-|blah blahblah blah blah blah blah blah blah blah ...|blah blah blah blah blah blah blah blah blah blah...|
+|Students would focus more on studies and access anywhere & anytime.|Students can not find a solution of problems and can't get to communicate.|
+|Students & Teachers could comfortable to check the resources after loadshedding.|Because of offline the website is very slow and may not get some resources and teachers can't create any of quiz, assignments etc.|
+|It is portable and one of the most interactive.|Students may lack to learn advance system , lacking of timings, some of recording andother data may not always available.|
 
 ---
 ### IDEA 6: Make Local Videos (original by [Duaa javeria])
