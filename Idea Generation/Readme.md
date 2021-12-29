@@ -106,18 +106,18 @@ After facing alot of problems we can make a local videos like record the lecture
 and In this may teacher not conduct the class so students come in classroom and attend the lectures via these videos.
 |PROS|CONS|
 |-|-|
-|blah blah blah blahblah blah...|blah blah blah blah blah blah blah blah...|
-|blah blah blah blah blah blah ...|blah blah blah blah blah blah blah blah blah blah blah blah...|
-|blah blahblah blah blah blah blah blah blah blah ...|blah blah blah blah blah blah blah blah blah blah...|
+|Multiple videos on the same time to develop the concepts is useful.|If the teacher can't edit the videos students may get stress from noise|
+|It does not involve any kind of subscription and learn the lecture easily by free of cost.|If the instructor close the classroom permanently then students can't have to access for it.|
+|Students learn by the function of play and pause to understand much more about the topic.|Take a long bandwidth and memory cost for upload & downlod.|
 
 ---
 ### IDEA 7:  Asynchronous Learning (original by [Dua Javeria])
 It allows to learn with your own schedule within the suitable time , you can access lectures, material, resources, work, at any time or after a weeks and months also. It mean two or kore people connect each other without present at a time like zoom and google meeting or virtual classroom.
 |PROS|CONS|
 |-|-|
-|blah blah blah blahblah blah...|blah blah blah blah blah blah blah blah...|
-|blah blah blah blah blah blah ...|blah blah blah blah blah blah blah blah blah blah blah blah...|
-|blah blahblah blah blah blah blah blah blah blah ...|blah blah blah blah blah blah blah blah blah blah...|
+|It allows to design their own learnung schedule.|Without a instructor it lack a personal touch.|
+|Using boards & portal for discussion and editiong of documents to engage the students interest.|There is no real time interaction and collaboration.|
+|It contain a more collection of videos, project, presentation and other mutimedia project and set a standard.|In this instant feedback is impossible to address the issues.|
 
 ---
 ### IDEA 8:  Peer to Peer Learning (original by [Dua Javeria])
