@@ -1,5 +1,5 @@
 <h1> Teacher </h1>
-<h2>Old Teacher</h2>
+<h2>Old English Teacher</h2>
 
 ![WhatsApp Image 2021-12-30 at 12 08 39 AM (1)](https://user-images.githubusercontent.com/61626142/147697451-25ec009f-6625-4933-8b0e-2bfd29adad63.jpeg)
 
