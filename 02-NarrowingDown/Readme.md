@@ -21,10 +21,17 @@ Students can send a instant feedback and good interaction between teacher and st
 ---
 
 ## Personas Link
+#### All Peronas
+https://github.com/Sidra20870/HCI166-fall2021/tree/main/02-NarrowingDown/Personas
+
+#### Student 1
 
 ---
 ## Scenarios Link
 
+#### All Scenarios
+
 ---
 ## Storyboard Link
+#### All Storyboards
 
