@@ -77,9 +77,9 @@ Although much attention has been paid to projects that promise things like 'an e
 In this we can make a complete web & mobile application which have learning management system, meeting system, videos session, AI based attendence via facial recognition and training the model, student poll, make interactive classroom for online students, canvas white board system, AI based Students sentiments checking via sentiment algorithm, Video call, message box system, audio system, Live annotations , share files and folder, generate assesment , Data analytic for all school database, BOOT system for query resolver, another model for tutor teachers to help students, Device controoler for poor students, easy packages etc.
 |PROS|CONS|
 |-|-|
-|blah blah blah blahblah blah...|blah blah blah blah blah blah blah blah...|
-|blah blah blah blah blah blah ...|blah blah blah blah blah blah blah blah blah blah blah blah...|
-|blah blahblah blah blah blah blah blah blah blah ...|blah blah blah blah blah blah blah blah blah blah...|
+|Students can send a instant feedback and good interaction between teacher and students.|Management of school have must IT background to solve the queries.|
+|It reduces the time of instructor for grading and checking the individual students syllabus and interests.|It have limited integration aspects to control all the domains.|
+|Online students can alsoo see their teachers and discussion like physical classroom via advance technology.|Activity feed does not update automatically.|
 
 ---
 ### IDEA 4: Sponsorship (original by [Sidra Usman])
