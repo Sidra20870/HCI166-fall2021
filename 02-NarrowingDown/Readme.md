@@ -13,8 +13,7 @@
 
 ---
 ## Final Project Idea
-#### Education Canvas
-###### Why we choose this Idea based on all activites
----
+### Education Canvas
+##### Why we choose this Idea based on all activites
 We can choose this because it is a mixture of all the ideas we can selected 
 
