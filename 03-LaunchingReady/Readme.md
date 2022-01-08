@@ -20,6 +20,9 @@ First, we use double diamond framework to accompolish our problem that discover 
 
 ## Description
 ### Login
-<img align="right" width="500" height="200" src="https://user-images.githubusercontent.com/61619271/148643951-02833e1d-cc22-4b9c-8de8-112091380b91.png" "https://user-images.githubusercontent.com/61619271/148643892-7952ac55-5331-46c6-a078-82bd003e3abd.png">
-<img align="left" width="500" height="200" src="https://user-images.githubusercontent.com/61619271/148643892-7952ac55-5331-46c6-a078-82bd003e3abd.png">
+|Std ID|Student Name|
+|:-----:|---------------------|
+|![image](https://user-images.githubusercontent.com/61619271/148647558-ccaeb43b-b2e7-47b9-8887-f007b6e57f19.png)|![image](https://user-images.githubusercontent.com/61619271/148647588-075c3531-7a6a-470d-8797-2025b7c3cf34.png)|
+|63986|Sidra Usman|
+
 
