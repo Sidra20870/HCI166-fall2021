@@ -15,8 +15,7 @@
 ## Final Project Idea
 ### Education Canvas
 ##### Why we choose this Idea based on all activites
-We can choose this because it is a mixture of all the ideas we can selected, In this we can make a complete web & mobile application which have learning management system, meeting system, videos session, AI based attendence via facial recognition and training the model, student poll, make interactive classroom for online students, canvas white board system, AI based Students sentiments checking via sentiment algorithm, Video call, message box system, audio system, Live annotations , share files and folder, generate assesment , Data analytic for all school database, BOOT system for query resolver, another model for tutor teachers to help students, Device controoler for poor students, easy packages etc.
-Students can send a instant feedback and good interaction between teacher and students. It reduces the time of instructor for grading and checking the individual students syllabus  and interests. Online students can alsoo see their teachers and discussion like physical classroom via advance technology.
+The final idea we have selected based on mixture of all ideas to create a mobile & we application. Education Canvas is to build a easier way of teaching & learning to provide all features of hybrid model like P2P & asynchronous learning via meeting and check all the activites of teacher & student like board, write, sentiments, results etc via automated AI and generic system.
 
 ---
 
