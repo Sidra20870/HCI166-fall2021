@@ -21,21 +21,4 @@ First, we use double diamond framework to accompolish our problem that discover 
 ## Description
 ### Login
 <img align="left" width="500" height="200" src="https://user-images.githubusercontent.com/61619271/148643892-7952ac55-5331-46c6-a078-82bd003e3abd.png"><img align="right" width="500" height="200" src="https://user-images.githubusercontent.com/61619271/148643951-02833e1d-cc22-4b9c-8de8-112091380b91.png">
-## Links
-### Wireframes
-https://github.com/Sidra20870/HCI166-fall2021/tree/main/03-LaunchingReady/Wireframes
 
-### Paper Prototype
-https://github.com/Sidra20870/HCI166-fall2021/tree/main/03-LaunchingReady/Paper%20Prototypes
-
-### Wizard of OZ
-https://github.com/Sidra20870/HCI166-fall2021/tree/main/03-LaunchingReady/Wizard%20of%20OZ
-
-https://drive.google.com/file/d/11vpr7iEvmPc1E28o4ZVlzvCdqzB9fim0/view?usp=sharing
-
-## References
-https://www.instructure.com/en-gb/canvas
-
-https://www.powermockup.com/
-
-https://yourstory.com/2021/03/hybrid-education-system-new-form/amp
