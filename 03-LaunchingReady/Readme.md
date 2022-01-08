@@ -28,9 +28,12 @@ https://github.com/Sidra20870/HCI166-fall2021/tree/main/03-LaunchingReady/Paper%
 
 ### Wizard of OZ
 https://github.com/Sidra20870/HCI166-fall2021/tree/main/03-LaunchingReady/Wizard%20of%20OZ
+
 https://drive.google.com/file/d/11vpr7iEvmPc1E28o4ZVlzvCdqzB9fim0/view?usp=sharing
 
 ## References
 https://www.instructure.com/en-gb/canvas
+
 https://www.powermockup.com/
+
 https://yourstory.com/2021/03/hybrid-education-system-new-form/amp
