@@ -53,7 +53,7 @@ First, we use double diamond framework to accompolish our problem that discover 
 |:-----:|---------------------|
 |![image](https://user-images.githubusercontent.com/61619271/148647901-ba8105a2-ab70-4d1c-9cbe-cef0eeff327f.png)|![image](https://user-images.githubusercontent.com/61619271/148647866-95d9f43b-6610-4b31-b927-3cae125a63b2.png)|
 
-**In paper we can make just simple marking the attendence as physical but in wireframes we can make the AI based attendence of all staff members to train the model of all the faces via facial recognition and AI libraries.
+**In paper we can make just simple marking the attendence as physical but in wireframes we can make the AI based attendence of all staff members to train the model of all the faces via facial recognition and AI libraries.**
 
 ## Teacher
 ### Assigned Task
@@ -61,14 +61,14 @@ First, we use double diamond framework to accompolish our problem that discover 
 |:-----:|---------------------|
 | ![image](https://user-images.githubusercontent.com/61619271/148648380-79752e5d-ef9e-425a-bea0-b009d13f58c9.png)|![image](https://user-images.githubusercontent.com/61619271/148648374-fb38ff76-e3db-4ac3-ab63-b718b9683b1e.png)|
 
-**In this screen we have some course and task from database and connect with real time data.
+**In this screen we have some course and task from database and connect with real time data.**
 
 ### Marks & Test
 |Wireframe|Paper Prototype|
 |:-----:|---------------------|
 |![image](https://user-images.githubusercontent.com/61619271/148648467-94354442-a3a2-491f-b893-4ab19f772114.png)|![image](https://user-images.githubusercontent.com/61619271/148648505-fb94d160-d29d-4fc8-b225-1a167b0c668e.png)|
 
-**In this screen we have all students marks for updation, deletion and conduct a new exam of students.
+**In this screen we have all students marks for updation, deletion and conduct a new exam of students.**
 
 ## Student
 ### Upload Task
@@ -76,7 +76,7 @@ First, we use double diamond framework to accompolish our problem that discover 
 |:-----:|---------------------|
 | ![image](https://user-images.githubusercontent.com/61619271/148648577-ff8dca6f-7407-41dd-9b66-4fc37e6deb4d.png)|![image](https://user-images.githubusercontent.com/61619271/148648651-fdcc083b-42bc-4440-8cf9-0a12b2f623ba.png)|
 
-**In this screen student upload the task and check the number automatically by proctor based system.
+**In this screen student upload the task and check the number automatically by proctor based system.**
 
 
 ## For live Meeting
@@ -85,31 +85,31 @@ First, we use double diamond framework to accompolish our problem that discover 
 |:-----:|---------------------|
 |![image](https://user-images.githubusercontent.com/61619271/148648777-a76e0715-3524-492a-8a7b-4054c88b912a.png)|![image](https://user-images.githubusercontent.com/61619271/148648805-1fe72768-6183-4f87-9209-138e53baefcc.png)|
 
-**In Paper we have just launch meeting button given from our school but in wireframe user make a meeting via his email.
+**In Paper we have just launch meeting button given from our school but in wireframe user make a meeting via his email.**
 
 ### Admin ( Same as Teacher and Student except Student have no rights to schedule his meeting he just message to his teacher or principal.)
 |Wireframe|Paper Prototype|
 |:-----:|---------------------|
 |![image](https://user-images.githubusercontent.com/61619271/148648884-a1661d44-8179-4b3e-bb06-55af490e4244.png)|![image](https://user-images.githubusercontent.com/61619271/148648896-5e3002ac-3bfc-44e4-839c-e5e43f63e3d1.png)|
 
-**In this user can start a new meeting and schedule the meeting by his suitable timing and security.
+**In this user can start a new meeting and schedule the meeting by his suitable timing and security.**
 
 ### Admin ( Same as Teacher )
 |Wireframe|Paper Prototype|
 |:-----:|---------------------|
 |![image](https://user-images.githubusercontent.com/61619271/148648971-07c41030-16d8-41a6-84bf-fb9995160740.png)|![image](https://user-images.githubusercontent.com/61619271/148648896-5e3002ac-3bfc-44e4-839c-e5e43f63e3d1.png)|
 
-**In this user can schedule the meeting by his suitable timing and security.
+**In this user can schedule the meeting by his suitable timing and security.**
 
 ### Teacher
 ![image](https://user-images.githubusercontent.com/61619271/148649028-3d4b1b74-10ae-4a82-a452-49386e762759.png)
 
-**In this Faculty start a live video, audio, annotation, check the students, record the lecture, share his board and most important he can see the active and not active student as per our Sentiment Algorithm.
+**In this Faculty start a live video, audio, annotation, check the students, record the lecture, share his board and most important he can see the active and not active student as per our Sentiment Algorithm.**
 
 ### Student
 ![image](https://user-images.githubusercontent.com/61619271/148649082-8be8c884-430d-47a5-a8d7-a9f6258c6fd0.png)
 
-**In this student start a live video, audio, annotation, check the fellows, record the lecture if teacher allow him, share his board and most important he can see the clear classroom board and teacher to interact him and solve his queries very smoothly.
+**In this student start a live video, audio, annotation, check the fellows, record the lecture if teacher allow him, share his board and most important he can see the clear classroom board and teacher to interact him and solve his queries very smoothly.**
 
 
 
