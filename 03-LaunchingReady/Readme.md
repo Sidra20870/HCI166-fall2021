@@ -20,6 +20,5 @@ First, we use double diamond framework to accompolish our problem that discover 
 
 ## Description
 ### Login
-<img align="right" width="500" height="200" src="https://user-images.githubusercontent.com/61619271/148643951-02833e1d-cc22-4b9c-8de8-112091380b91.png">
-<img align="left" width="500" height="200" src="https://user-images.githubusercontent.com/61619271/148643892-7952ac55-5331-46c6-a078-82bd003e3abd.png">
+<img align="right" width="500" height="200" src="https://user-images.githubusercontent.com/61619271/148643951-02833e1d-cc22-4b9c-8de8-112091380b91.png"><img align="left" width="500" height="200" src="https://user-images.githubusercontent.com/61619271/148643892-7952ac55-5331-46c6-a078-82bd003e3abd.png">
 
