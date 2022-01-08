@@ -8,3 +8,29 @@
 
 ## Background
 We can choose this because it is a mixture of all the ideas we can selected, In this we can make a complete web & mobile application which have learning management system, meeting system, videos session, AI based attendence via facial recognition and training the model, student poll, make interactive classroom for online students, canvas white board system, AI based Students sentiments checking via sentiment algorithm, Video call, message box system, audio system, Live annotations , share files and folder, generate assesment , Data analytic for all school database, BOOT system for query resolver, another model for tutor teachers to help students, Device controoler for poor students, easy packages etc. Students can send a instant feedback and good interaction between teacher and students. It reduces the time of instructor for grading and checking the individual students syllabus and interests. Online students can alsoo see their teachers and discussion like physical classroom via advance technology.
+
+## Design Screens
+- Login
+- Student 
+- Teacher
+- Admin
+
+## Evaluation Techniques
+First, we use double diamond framework to accompolish our problem that discover & explore the problem to test the solutions. We decide how to interact our design as user centered design to based upon understanding of user throughout design and implementation. We have to drive 4 iteration beforre finalize the design. Then we make design alternatives, make brainstroming session to explore the wide area of this topic, make personas, scenarios, storyboards. Then we make low fidelity prototype like paper prototype and make medium level of wireframes to check how our application is useful and to make wizard of OZ video that how we can use our application easily and smoothly.
+
+
+## Links
+### Wireframes
+https://github.com/Sidra20870/HCI166-fall2021/tree/main/03-LaunchingReady/Wireframes
+
+### Paper Prototype
+https://github.com/Sidra20870/HCI166-fall2021/tree/main/03-LaunchingReady/Paper%20Prototypes
+
+### Wizard of OZ
+https://github.com/Sidra20870/HCI166-fall2021/tree/main/03-LaunchingReady/Wizard%20of%20OZ
+https://drive.google.com/file/d/11vpr7iEvmPc1E28o4ZVlzvCdqzB9fim0/view?usp=sharing
+
+## References
+https://www.instructure.com/en-gb/canvas
+https://www.powermockup.com/
+https://yourstory.com/2021/03/hybrid-education-system-new-form/amp
